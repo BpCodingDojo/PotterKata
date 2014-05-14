@@ -30,6 +30,31 @@ For example, how much does this basket of books cost?
 
 
 ```
+Simple discount:
+• 1 copies of the first book
+• 1 copies of the second book
+
+answer: 15.20 EUR
+
+
+Several discount:
+• 2 copies of the first book
+• 1 copies of the second book
+
+answer: 23.20 EUR
+
+
+Complex discount 1:
+• 1 copies of the first book
+• 2 copies of the second book
+• 1 copies of the third book
+• 1 copy of the fourth book
+• 1 copy of the fifth book
+
+answer: 38 EUR
+
+
+Complex discount 2:
 • 2 copies of the first book
 • 2 copies of the second book
 • 2 copies of the third book
@@ -37,4 +62,14 @@ For example, how much does this basket of books cost?
 • 1 copy of the fifth book
 
 answer: 51.20 EUR
+
+
+Complex discount 3:
+• 5 copies of the first book
+• 5 copies of the second book
+• 4 copies of the third book
+• 5 copy of the fourth book
+• 4 copy of the fifth book
+
+answer: 141.2 EUR
 ```
